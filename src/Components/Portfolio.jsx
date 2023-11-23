@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/ideogram.jpeg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "AR Lens",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Developed a diverse range of lenses for Snapchat's Lens Studio. Created interactive and engaging augmented reality experiences.",
+    url: "https://docs.google.com/document/d/11WPUWmTuQvJ35bmqYxNVaB_irNM1CnN0efZ1Xxnj76k/edit?usp=sharing",
   },
   {
     title: "Web Development for Beginners",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Designed and developed a responsive frontend for a gym website using HTML and CSS. ",
+    url: "https://fitygym.netlify.app/",
   },
   {
-    title: "My Resume Site",
+    title: "AI Chatbot",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created many AI chat bot using illacloud and many ai apps.",
+    url: "https://github.com/illacloud/illa-builder",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Paws and Claws",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed a comprehensive online pet shop website using a combination of HTML, CSS, JavaScript, and PHP.",
+    url: "https://github.com/",
   },
 ];
 
